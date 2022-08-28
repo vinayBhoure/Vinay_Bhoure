@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinay Bhoure</h1>
-<h3 align="center">An Enthsui</h3>
+<h3 align="center">Web Developer | Technical Enthusiast | Sophomore @NIT Bhopal |</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
