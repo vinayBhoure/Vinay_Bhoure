@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Vinay Bhoure</h1>
+<h1 align="center">Heyy coders, I'm Vinay Bhoure</h1>
 <h3 align="center">I'm Vinay Bhoure, a Computer Science Undergrad Sophomore @(MANIT) NIT-Bhopal. 1. I'm new to open source but well aware of C++, HTML, MySQL, etc. Apart from all of these I've done some open-source contributions to HacktoberFest'22.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaybhoure&label=Profile%20views&color=0e75b6&style=flat" alt="vinaybhoure" /> </p>
 
-- 🌱 I’m currently learning **BootStrap,C++ , JavaScript**
+- 🌱 I’m currently learning **BootStrap, C++, JavaScript**
 
 - 👯 I’m looking to collaborate on **FrontEnd Projects**
 
